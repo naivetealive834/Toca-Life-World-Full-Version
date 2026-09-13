@@ -240,4 +240,4 @@ This repository serves as the official landing page for Toca Boca World. The sof
 **Get the most recent version of Toca Boca World today!**
 
 ---
-**Last updated:** 2026-09-13 17:12:47 UTC
+**Last updated:** 2026-09-13 20:14:01 UTC
